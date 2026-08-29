@@ -1,4 +1,4 @@
-# Margem de lucro
+# Meta de vendas de uma equipe
 equipe_vendas = { "João": 12000, "Maria": 9500, "Ricardo": 10000, "Fernanda": 15200, "Paulo": 5000 }
 meta_objetivo = 10000
 
